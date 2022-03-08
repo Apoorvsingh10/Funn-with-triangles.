@@ -1,0 +1,21 @@
+*,*::before,*::after{
+    margin: 4%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 150%;   
+}
+
+
+
+.main-div{
+    width: 35rem;
+    height: auto;
+    background-color: rgb(155, 114, 133);
+    border-radius: 2rem;
+    box-shadow: cornflowerblue;
+    padding: 2rem;
+    text-align: center;
+    box-shadow: 0 1.2rem 3rem 0.5rem rgb(8, 3, 1)}
